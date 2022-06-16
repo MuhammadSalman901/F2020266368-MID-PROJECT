@@ -322,13 +322,13 @@ nav .menu-btn i{
     margin-bottom:30
 }
 
-#slider
+#slider2
 {
   overflow: hidden;
   margin-bottom: 20px;
 }
 
-#slider figure
+#slider2 figure
 {
   position: relative;
   width: 500%;
@@ -337,13 +337,13 @@ nav .menu-btn i{
   animation: 15s slider infinite;
 }
 
-#slider figure img
+#slider2 figure img
 {
   width: 20%;
   float: left;
 }
 
-@keyframes slider
+@keyframes slider2
 {
   0%
   {
